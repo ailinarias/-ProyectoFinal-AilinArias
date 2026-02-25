@@ -1,0 +1,16 @@
+Documentación: TRABAJO FINAL INTEGRADOR – TESTING ADA
+- Carpetas Drive: 
+https://drive.google.com/drive/folders/10ZcjbJiAf7daADU4uplc4onAJ3qItEhU?usp=drive_link
+---------------------------------------------
+- Informe: 
+https://docs.google.com/document/d/1qqRzEYPUTB_3Zk8Gu5pOjUQMP4bRQ-Y_LzCzjzY7y-4/edit?usp=sharing
+--------------------------------------------
+- Resumen ejecutivo: 
+https://docs.google.com/document/d/152yEFQpcZRODWmL2Iawe0__OURrfnweR7GBV3vETxHE/edit?usp=sharing
+--------------------------------------------
+- Presentación:
+--------------------------------------------
+- Repositorio GitHub:
+--------------------------------------------
+- Casos de pruebas: 
+https://docs.google.com/spreadsheets/d/1R3zi6qM1lK3ps_leC9dcsThZSiIYBudOPBknfidbng8/edit?usp=drive_link
