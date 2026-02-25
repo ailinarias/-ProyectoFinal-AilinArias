@@ -1,0 +1,34 @@
+Evidencia casos de prueba Instagram Lite: 
+
+ÉPICA 1 - Gestión y autenticación de sesión
+https://drive.google.com/drive/folders/1mOvjs6rxPYhTcH6vsEduzuqsGFhbCOjO?usp=drive_link
+
+- Registro de usuarios y registro con número telefónico (CP_1 al CP_11): https://drive.google.com/drive/folders/1xx6GPupcqzFtYdVJLlCriP-ESM0kRIzD?usp=drive_link
+
+- Inicio de sesión (CP_12 al CP_15):
+https://drive.google.com/drive/folders/1B2A_tzQrAtMu3T-yNHkp44rhT7zg_itE?usp=drive_link
+
+- Cierre de sesión (CP_16):
+https://drive.google.com/drive/folders/1TwODzWYPJ_JzvJKO31jOofriMYv-NQD6?usp=drive_link
+
+- Recuperación de contraseña (CP_17 y CP_18):
+https://drive.google.com/drive/folders/1zhzioKta1XlC8b_7W9BzpcNSAzrxtrnz?usp=drive_link
+--------------------------------------------
+ÉPICA 2 - Gestión de contenido
+https://drive.google.com/drive/folders/1dAIuB4Hdd6cOGgMpMhNFnVSm0ZUVxJkN?usp=drive_link
+
+- Publicar contenido (CP_19 al CP_21):
+https://drive.google.com/drive/folders/1qqy0ZOmcEIv7_6Ppc2hSSVu8OFhAOP2S?usp=drive_link
+
+- Editar contenido (CP_22 al CP_24):
+https://drive.google.com/drive/folders/1QBkEIhKX0cAnvROwoHOBtZ1AZeeJYaLf?usp=drive_link
+
+- Eliminar contenido (CP_25 y CP_26):
+https://drive.google.com/drive/folders/1Dbn8Q-ceTpvchEE5YaN_51fQt4hL0hLL?usp=drive_link
+
+- Visualizar publicaciones propias (CP_27 y CP_28):
+https://drive.google.com/drive/folders/1jWPvZPdT98QPd_T-YBmNZaKd5W8B435Z?usp=drive_link
+
+- Interactuar publicaciones propias (CP_29 al CP_32):
+https://drive.google.com/drive/folders/1LOLfZZdBaTtQebziFWjeBYSnWKTYbSJv?usp=drive_link
+
